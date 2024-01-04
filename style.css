@@ -1,0 +1,12 @@
+body {
+background:linear-gradient(#18FFFF,rgb(255, 0, 251),rgb(0, 255, 136) ) ;
+
+}
+
+h2{
+    color :rgb(202, 13, 199);
+    text-shadow: -3px -3px 0 #8a2be2, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+   
+    font-size:100px;
+    font-family:arial black ;
+}
